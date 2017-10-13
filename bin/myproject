@@ -1,0 +1,10 @@
+#!/home/users/lofardata/play_g/virtualenv/work_venv/bin/python
+# PBR Generated from u'console_scripts'
+
+import sys
+
+from myproject.my_main import run_me
+
+
+if __name__ == "__main__":
+    sys.exit(run_me())
